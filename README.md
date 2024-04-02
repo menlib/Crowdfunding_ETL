@@ -1,0 +1,1 @@
+The objective of this project is to interpret the ETL (extract, transform & load) process by using Python and SQL. It covers extracting data from different sources and performing data cleaning, followed by loading the refined data into a relational database via pgAdmin. 
